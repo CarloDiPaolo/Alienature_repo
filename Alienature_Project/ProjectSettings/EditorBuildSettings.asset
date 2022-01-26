@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/3DGamekit/Scenes_Premade/GamePlay/Level2.unity
     guid: bfc86215544d6ab42b838135fdd17f21
+  - enabled: 1
+    path: Assets/Scenes/000_Test.unity
+    guid: 748f8c803e0d7c249af1167c4228f702
+  - enabled: 1
+    path: Assets/Scenes/001_Test.unity
+    guid: c25376df9979d604aa66231cbbe3ce80
   m_configObjects: {}
