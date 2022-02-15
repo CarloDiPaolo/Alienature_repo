@@ -678,5 +678,14 @@ namespace Gamekit3D
             m_Respawning = true;
             m_Damageable.isInvulnerable = true;
         }
+
+        /*private void OnControllerColliderHit(ControllerColliderHit hit)
+        {
+            if(hit.gameObject.layer == LayerMask.NameToLayer("Environment"))
+            {
+                Debug.Log("Ground Collision");
+            }
+        }
+        */
     }
 }
