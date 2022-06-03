@@ -9,18 +9,6 @@ EditorBuildSettings:
     path: Assets/3DGamekit/Scenes_Premade/Start.unity
     guid: 57df1e417250bc247976c2c0dc088efe
   - enabled: 1
-    path: Assets/3DGamekit/Scenes_Premade/GamePlay/Level1.unity
-    guid: ed46e53182fb08b4482fd3c4a75bc631
-  - enabled: 1
-    path: Assets/3DGamekit/Scenes_Premade/GamePlay/Level2.unity
-    guid: bfc86215544d6ab42b838135fdd17f21
-  - enabled: 1
-    path: Assets/Scenes/Test&Proto/000_Test.unity
-    guid: 748f8c803e0d7c249af1167c4228f702
-  - enabled: 1
-    path: Assets/Scenes/Test&Proto/001_Test.unity
-    guid: c25376df9979d604aa66231cbbe3ce80
-  - enabled: 1
     path: Assets/Scenes/Game/Lv_01-Temple.unity
     guid: ab095a3eed3841b418e6ab36299ea334
   m_configObjects: {}
