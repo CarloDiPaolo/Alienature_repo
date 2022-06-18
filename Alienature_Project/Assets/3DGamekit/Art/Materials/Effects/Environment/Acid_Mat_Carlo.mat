@@ -106,7 +106,7 @@ Material:
     - _ZWrite: 1
     - _emission_intensity: 2
     - _smoothness: 1
-    - _texture_tiling: 0.5
+    - _texture_tiling: 0.3
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color1: {r: 0.46756274, g: 0.764151, b: 0, a: 1}
