@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 14751
+  controlID: 17607
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 14752
+  controlID: 17608
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 14753
+  controlID: 17553
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 14754
+  controlID: 17539
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,10 +251,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 32}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0238f5ffda88f5ff0ed8f5ff1ed8f5ff5e18f6ff4edef6ff9288f7ff7289f7ff8289f7ffd2e3f7ff6cc8f8ffb4eaf8ff9c45f9ff9c4df9ffa8edf9ff9eedfbff16b0ffffe4faffffe86f000060710000667100000a74000056790000a0790000e2800000f08200006e8500005c8600009a8900001e8a0000428d0000b090000054910000209400007897000002980000969b0000ac9c00002c9d00005a9e0000869e0000aece0500daee0500aaef05000cfd050064fe0500fc4c0600206a0600ee76060080ea06000eef060008f306005af50600ba02070016040700920d0700ca1c07003a200700bcf407003c1a0a00841c0a004a2b0a002a2d0a00022e0a00c2380a0064470a00
+      m_ExpandedIDs: 3a8cf1ff6477f2ff0238f5ffda88f5ff0ed8f5ff1ed8f5ff5e18f6ff4edef6ff9288f7ff7289f7ff8289f7ffd2e3f7ff6cc8f8ffb4eaf8ff9c45f9ff9c4df9ffa8edf9ff9eedfbff16b0ffffe4faffffe86f000060710000667100000a74000056790000a0790000e2800000f08200006e8500005c8600009a8900001e8a0000428d0000b090000054910000209400007897000002980000969b0000ac9c00002c9d00005a9e0000869e0000aece0500daee0500aaef05000cfd050064fe0500fc4c0600206a0600ee76060080ea06000eef060008f306005af50600ba02070016040700920d0700ca1c07003a200700bcf407003c1a0a00841c0a004c1e0a00442a0a004a2b0a002a2d0a00022e0a00fe2f0a00c2380a00703b0a00ac460a0064470a006c660d00fc6a0d00fe6e0d0070720d00ba7e0d0090890d00368f0d00c8980d00fef40d00
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -307,6 +307,8 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   modes:
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -1182,9 +1184,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 175.25914, y: -39.901974, z: -200.91364}
+    m_Target: {x: 215.88176, y: 126.01863, z: -271.75208}
     speed: 2
-    m_Value: {x: 175.25914, y: -39.901974, z: -200.91364}
+    m_Value: {x: 215.88176, y: 126.01863, z: -271.75208}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1231,13 +1233,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.16958293, y: 0.48651472, z: -0.0967865, w: 0.85169226}
+    m_Target: {x: -0.06370797, y: -0.9361037, z: 0.23205823, w: -0.25695848}
     speed: 2
-    m_Value: {x: 0.1695658, y: 0.48646554, z: -0.09677672, w: 0.8516062}
+    m_Value: {x: -0.06370073, y: -0.93599725, z: 0.23203184, w: -0.25692928}
   m_Size:
-    m_Target: 8.502221
+    m_Target: 27.64661
     speed: 2
-    m_Value: 8.502221
+    m_Value: 27.64661
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -2649,8 +2651,8 @@ MonoBehaviour:
     y: 732.6667
     width: 1982.6666
     height: 566.3333
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -2688,7 +2690,8 @@ MonoBehaviour:
     m_SaveData: []
   m_SearchFilter:
     m_NameFilter: 
-    m_ClassNames: []
+    m_ClassNames:
+    - Scene
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
@@ -2701,7 +2704,7 @@ MonoBehaviour:
     m_Folders:
     - Assets/3DGamekit/Art/Models/Environment/VegetationSmall
     m_Globs: []
-    m_OriginalText: 
+    m_OriginalText: t:Scene
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
@@ -2767,8 +2770,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 4a470a00
-    m_LastClickedInstanceID: 673610
+    m_SelectedInstanceIDs: 280f0e00
+    m_LastClickedInstanceID: 921384
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000000000009ea70000
     m_RenameOverlay:
@@ -2890,7 +2893,7 @@ MonoBehaviour:
     m_CachedPref: 332
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 673610
+  m_LastInspectedObjectInstanceID: 921384
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
